@@ -1,0 +1,32 @@
+div{
+    background-color: green;
+    width: 500px;
+    height: 200px;
+
+}
+.caja1{
+    background-color: blue;
+    width: 500px;
+    height: 200px;
+}
+
+#caja2{
+    background-color: purple;
+    width: 500px;
+    height: 200px;
+}
+article{
+    background-color: rgba(0,0,0,.5);
+    width: 500px;
+    height: 200px;
+
+}
+body{
+    font-size: 25px;
+
+}
+article>section>p{
+    font-size: 30px;
+    color: red;
+
+}
